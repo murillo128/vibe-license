@@ -25,16 +25,16 @@ Large Language Models (LLMs) can generate code that:
 Traditional open-source licenses do not address **LLM-generated code** at all.
 The VIBE License introduces:
 
-### âœ” Transparent provenance  
+### Transparent provenance  
 Contributors must declare which models assisted their updates.
 
-### âœ” Modern realism  
+### Modern realism  
 It acknowledges that LLMs may reproduce copyrighted or proprietary patterns.
 
-### âœ” Permissive simplicity  
+### Permissive simplicity  
 The license stays as easy to adopt as MIT/BSD.
 
-### âœ” Safety for maintainers  
+### Safety for maintainers  
 Maintainers are protected by a no-warranty, no-IP-responsibility clause.
 
 ---
@@ -85,7 +85,7 @@ These may be added as:
 Use the following in source files:
 
 ```
-SPDX-License-Identifier: VIBE-1.5
+SPDX-License-Identifier: VIBE-1.0
 ```
 
 ---
@@ -108,16 +108,12 @@ Projects MAY optionally require contributors to digitally agree to it.
 2. Add this header to each source file (optional but recommended):
 
 ```
-SPDX-License-Identifier: VIBE-1.5
+SPDX-License-Identifier: VIBE-1.0
 ```
 
 3. Add LLM provenance comments when using AI assistance.
 4. Ask contributors to accept the CLA (optional, recommended).
-5. Add the VIBE badge to your README:
-
-```
-![License: VIBE](https://img.shields.io/badge/License-VIBE-blue.svg)
-```
+5. Add the VIBE badge to your README (TBD)
 
 ---
 
@@ -129,19 +125,19 @@ You may list projects adopting VIBE after publication.
 
 ## FAQ
 
-### â–¸ Does VIBE restrict commercial use?  
+### Does VIBE restrict commercial use?  
 **No.** It is fully permissive like MIT/BSD.
 
-### â–¸ Does it require disclosing prompts?  
+### Does it require disclosing prompts?  
 **No.** Optional only.
 
-### â–¸ Does it forbid using certain LLMs?  
+### Does it forbid using certain LLMs?  
 **No.**
 
-### â–¸ Is VIBE GPL-compatible?  
-Yes. The provenance requirement behaves like MITâ€™s attribution.
+### Is VIBE GPL-compatible?  
+Yes. The provenance requirement behaves like MITs attribution.
 
-### â–¸ Is provenance required for all modifications?  
+### Is provenance required for all modifications?  
 Only for **LLM-assisted** changes.
 
 ---
