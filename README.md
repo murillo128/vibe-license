@@ -58,9 +58,9 @@ For original or modified versions, include:
 
 ```
 LLM Generation Summary
-  - Primary LLM Vendor: OpenAI
-  - Primary Model: GPT-5.1
-  - Model Version / Date: 2025-12
+  - Primary LLM Vendor:
+  - Primary Model:
+  - Model Version / Date:
   - Additional Models (optional):
 ```
 
