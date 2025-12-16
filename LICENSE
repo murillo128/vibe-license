@@ -54,14 +54,17 @@ furnished to do so, subject to the following conditions:
    The VIBE License remains fully permissive regardless of whether these checks are
    performed.
 
-5. Optional Contributor Declaration.
-   Contributors are encouraged, but not required, to provide a voluntary
-   “DECLARATION” file when releasing substantial LLM-assisted contributions.
-   Such declarations may state that a reasonable plagiarism or code-similarity
-   check was performed, identify the tools used, and summarize the results.
+5. Responsible Review and Reporting (Optional).
+   Users and contributors are encouraged, but not required, to perform reasonable
+   checks to identify any potential reuse of copyrighted material, including the
+   use of publicly available code-similarity or plagiarism-detection tools.
+   Such checks are conducted solely at the user's discretion and do not create
+   any warranty, duty, or liability for contributors.
 
-   Declarations are informational only and do not constitute a warranty,
-   certification, or assurance of non-infringement.
+   If a user becomes aware of possible copyright infringement, improper reuse,
+   or a need for additional attribution in the Software, the user is encouraged
+   to notify the maintainers or submit a corrective contribution. Providing such
+   notice is voluntary and does not affect the rights granted by this License.
 
 6. No Warranty.
    THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
