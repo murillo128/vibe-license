@@ -1,12 +1,8 @@
-VIBE Permissive License, Version 1.0
-
-Copyright (c) [YEAR] [AUTHOR]
-
-LLM GENERATION SUMMARY (For the original version of the Software)
+LLM GENERATION SUMMARY (Optional for the original version of the Software)
    - Primary LLM Vendor: __________________________
-   - Primary Model Name: ___________________________
-   - Model Version / Date Used: ____________________
-   - Additional Models (optional): _________________
+   - Primary Model Name: __________________________
+   - Model Version / Date Used: ___________________
+   - Additional Models (optional): ________________
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the “Software”), to deal
@@ -20,45 +16,53 @@ furnished to do so, subject to the following conditions:
    and this permission notice shall be included in all copies or substantial
    portions of the Software.
 
-2. LLM Provenance for Modifications.
+2. Provenance for LLM-Assisted Modifications.
    Any person who modifies the Software and redistributes the modified version
-   must include a brief LLM provenance record for any newly added or revised
-   portions that were generated or assisted by large language models (“LLMs”).
+   must disclose whether large language models (“LLMs”) were used to generate
+   or assist in generating such modifications. If LLMs were used, the
+   contributor shall provide a brief provenance record identifying, when known:
+     - LLM vendor
+     - Model name
+     - Model version or date
 
-   This record may be placed:
-     (a) as an addition to the LICENSE file, or
-     (b) in comments adjacent to the affected code, or
-     (c) in commit messages included with the distribution.
+   The provenance record may be provided in a commit message, code comment,
+   or as an addition to this license file. Provenance is informational only
+   and does not imply originality, authorship, or non-infringement.
 
-   The record shall include, when known:
-     - LLM Vendor (e.g., OpenAI, Anthropic, Google)
-     - Model Name (e.g., GPT-5.1, Claude-3.7)
-     - Model Version / Date Used
+3. LLM-Generated Material Disclaimer.
+   The Software may include material generated or assisted by LLMs.
+   Contributors cannot verify and do not warrant the originality, authorship,
+   accuracy, or non-infringing nature of such material. LLM output may
+   unintentionally resemble or reproduce protected structure, sequence,
+   organization, or other expressive elements derived from training data or
+   third-party works.
 
-   No provenance record is required for manually authored changes or
-   modifications not assisted by LLMs.
+   Contributors expressly disclaim any responsibility or liability for any
+   intellectual property claims related to LLM-generated material.
 
-4. LLM-Generated Material Disclaimer.
-   Portions of this Software may include, incorporate, or be derived from material
-   generated with the assistance of LLMs. No representation or warranty is made
-   regarding the originality, authorship, exclusivity, or non-infringing nature
-   of any such material.
+4. User Responsibility and Due Diligence.
+   Users are solely responsible for evaluating the suitability, legality,
+   and intellectual property implications of using, modifying, or distributing
+   the Software. Users must not rely on provenance information as evidence of
+   originality or freedom from third-party rights. All use is at the user’s
+   own risk.
 
-   The contributor(s) expressly disclaim any liability for:
-     (a) originality of LLM-generated content,
-     (b) infringement of copyright, patent, trademark,
-     (c) violations of trade-secret or proprietary rights,
-     (d) or any other intellectual property claims arising from LLM output.
+5. Optional Contributor Declaration.
+   Contributors are encouraged, but not required, to provide a voluntary
+   “DECLARATION” file when releasing substantial LLM-assisted contributions.
+   Such declarations may state that a reasonable plagiarism or code-similarity
+   check was performed, identify the tools used, and summarize the results.
 
-5. Use at Your Own Risk.
-   Users assume all risks associated with using, modifying, or distributing the
-   Software, including conducting any necessary due diligence.
+   Declarations are informational only and do not constitute a warranty,
+   certification, or assurance of non-infringement.
 
 6. No Warranty.
    THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-   OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-   THE SOFTWARE.
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+   FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+   DEALINGS IN THE SOFTWARE.
+
+SPDX-License-Identifier: VIBE
